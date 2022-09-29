@@ -1,5 +1,5 @@
-# Primary_Visual_Cortex_like_Neuralnets
-##Insert link of project ppt!!
+# Effect-of-Early-Visual-Circuit-Architecture-to-Orientation-Selective-Encoding
+## Insert link of project ppt!!
 
 This work is a part of a project [Comparing orientation encoding in salt-and-pepper and columnar architectures]() by Parmigiana Group 1 during the 2022 Neuromatch Academy-Computational Neuroscience, where the aime was to understand how the representation in the primary visual cortex (V1) for orientation grating input could differ according to their network organization pattern being either columnar or salt-and-pepper. For detailed context, cf. maybe organize pt script as a paper type?...
 
