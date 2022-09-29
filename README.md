@@ -1,4 +1,4 @@
-# Effect-of-Early-Visual-Circuit-Architecture-to-Orientation-Selective-Encoding, ANN Part
+# Effect of Primary Visual Circuit Architecture to Orientation Selective Encoding, ANN Part
 
 This work is a part of a project [Comparing orientation encoding in salt-and-pepper and columnar architectures](https://docs.google.com/presentation/d/1NZbzr-H--xeZlh6FS_dvh1DaMt9pq8uGfEIl7Q_2EZ0/edit?usp=sharing) by Parmigiana Group 1 at the 2022 Neuromatch Academy-Computational Neuroscience. The aim of the project was to understand how the representation in the primary visual cortex (V1) for orientation grating input could differ according to their network organization pattern being either columnar or salt-and-pepper. For detailed context, see the Background context section below.
 
